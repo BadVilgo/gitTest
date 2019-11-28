@@ -1,0 +1,1 @@
+Pierwszy test by zapoznać się z git i githubem
